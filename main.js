@@ -30,7 +30,7 @@ bot.on('ready', () => {
     console.log("Bot en marche");
 });
 
-bot.login('NDQyMDg5NTI2OTI4NjA1MjA0.Dc5vhQ.Agr0CtSgq5r50rKs1jaRLwFxTqw')
+bot.login(process.env.TOKEN)
 
 bot.on("guildMemberAdd", member => {
     let nrole = member.guild.roles.find("name", "Arrivant")
