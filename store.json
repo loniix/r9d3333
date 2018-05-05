@@ -1,0 +1,31 @@
+{
+    "store_items" :[
+        {
+            "itemID": "VIP",
+            "name": "Grade VIP",
+            "desc": "Profitez d'un grade VIP !",
+            "price": "500"
+        },
+
+        {
+            "itemID": "Slot-1",
+            "name": "Emplacement pour un deuxième personnage",
+            "desc": "Achetez cet objet et bénéficiez d'un nouveau personnage !",
+            "price": "400"
+        },
+
+        {
+            "itemID": "Slot-2",
+            "name": "Emplacement pour un troisième personnage",
+            "desc": "Jamais deux sans trois !",
+            "price": "600"
+        },
+
+        {
+            "itemID": "maison",
+            "name": "Maison / Appartement",
+            "desc": "Bénéficiez d'une maison ou d'un appartement sur la planète de votre choix.",
+            "price": "100"
+        }
+    ]
+}

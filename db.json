@@ -1,0 +1,160 @@
+{
+  "missions": [
+    {
+      "story_value": "Un villageois vêtis de vêtements déchirez cours vers vous. \n**Villageois** : Des personnes meurent là bas ! Des pillards nous attaques ! Aidez nous s'il vous plait !",
+      "story_author": "<@294507843724509186>"
+    },
+    {
+      "story_value": "Un cargo passe au dessus de votre tête mais une partie du chargement se détache, vous gagnez 5 000 crédits.",
+      "story_author": "<@294507843724509186>"
+    },
+    {
+      "story_value": "  -*Quelqu’un essaie de vous contacter, votre Holo-communicateur sonne, vous répondez. Un individu qui semble être un humain, un peu vieux avec des vêtements nobles et son visage caché par une capuche apparaît*-\n\n**Individu** : Bonjour, vous ne saurez pas qui je suis ni pour qui je travaille. Nous avons besoin de vos services, une société basée [l’image se trouble et quelques secondes plus tard, elle revient à la normale] sur Corellia du nom de Corellia StarDrive que vous connaissez peut être pour son Transporteur de Ravitaillement de classe Quartier-Maître qui fournit les flottes de la République.\nCette société, d’après nos informations est entrain de produire un nouveau prototype de vaisseau militaire. Nous avons besoin que vous récupérer les plans de cette création et que vous me les ramener. Attention, cette mission est périlleuse, nous vous demanderons la plus grande prudence et surtout éliminer toutes les preuves pouvant nous ramener à cette opération.\nLorsque la mission sera terminée, contactez moi à cette ID : 789-486-354 pour que je vous donne le lieu de rendez-vous.\nLa somme que nous proposons est de 45 000 crédits, nous vous souhaitons bonne chance.\n\n-*La communication se coupe et l’hologramme disparait*-",
+      "story_author": "<@379345863903936522>"
+    },
+    {
+      "story_value": "*En recherchant des mission, vous tombez sur une annonce qui vous attire à cause de la somme à la clé.*\n\n*En appuyant sur le dossier, un hologramme apparaît, et dit * : Salutation à vous. Si vous cherchez une quelconque mission pour vous en mettre plein les poches, vous avez trouvé le bonne endroit. Je vous propose 35.000 crédits si vous faîte la tâche que je vous demande, qui es : Détruire un avant-poste Impériale. Pas n'importe lequel, l'avant-poste de \" Quiarum, Redaptium \" qui es sur Sullust. L'avant-poste est très bien protégé, vous allez donc devoir faire preuve d'une extrême finesse pour ne pas vous faire tuer. Cependant, l'avant-poste fonctionne avec un réacteur qui fonctionne lui-même avec de la lave. Donc, la solution la plus simple sera de faire exploser le réacteur, vous n'aurez que 35 secondes pour sortir, oui. Mais ça en vaut la peine. Oh, et si vous pouvez détruire les véhicules qui sont à 200 mètres, je vous donnerai une prime de 10.000. *L'hologramme disparaît ensuite.*",
+      "story_author": "<@313392989651206154>"
+    }
+  ],
+  "xp": [
+    {
+      "user": "263350405348589568",
+      "xp": 898
+    },
+    {
+      "user": "353605724502228998",
+      "xp": 206
+    },
+    {
+      "user": "294507843724509186",
+      "xp": 251
+    },
+    {
+      "user": "379345863903936522",
+      "xp": 171
+    },
+    {
+      "user": "313392989651206154",
+      "xp": 184
+    },
+    {
+      "user": "331769645864321025",
+      "xp": 449
+    },
+    {
+      "user": "403466879622053908",
+      "xp": 1
+    },
+    {
+      "user": "371021968159277068",
+      "xp": 8
+    },
+    {
+      "user": "301152792687673355",
+      "xp": 1
+    },
+    {
+      "user": "274599466689101834",
+      "xp": 89
+    },
+    {
+      "user": "298199392643448832",
+      "xp": 42
+    },
+    {
+      "user": "415924662422339595",
+      "xp": 7
+    },
+    {
+      "user": "401439564469764106",
+      "xp": 17
+    },
+    {
+      "user": "140909426679742464",
+      "xp": 2
+    },
+    {
+      "user": "402860282206093312",
+      "xp": 1
+    },
+    {
+      "user": "376446250805100544",
+      "xp": 21
+    },
+    {
+      "user": "319543672708399105",
+      "xp": 2
+    },
+    {
+      "user": "329261347093348353",
+      "xp": 10
+    }
+  ],
+  "inventory": [
+    {
+      "user": "263350405348589568",
+      "items": "Maison / Appartement"
+    },
+    {
+      "user": "294507843724509186",
+      "items": ""
+    },
+    {
+      "user": "379345863903936522",
+      "items": ""
+    },
+    {
+      "user": "331769645864321025",
+      "items": ""
+    },
+    {
+      "user": "353605724502228998",
+      "items": ""
+    },
+    {
+      "user": "313392989651206154",
+      "items": ""
+    },
+    {
+      "user": "298199392643448832",
+      "items": ""
+    },
+    {
+      "user": "274599466689101834",
+      "items": ""
+    },
+    {
+      "user": "415924662422339595",
+      "items": ""
+    },
+    {
+      "user": "401439564469764106",
+      "items": ""
+    },
+    {
+      "user": "140909426679742464",
+      "items": ""
+    },
+    {
+      "user": "402860282206093312",
+      "items": "Vide. Oof."
+    },
+    {
+      "user": "376446250805100544",
+      "items": "Vide. Oof."
+    },
+    {
+      "user": "319543672708399105",
+      "items": "Vide. Oof."
+    },
+    {
+      "user": "329261347093348353",
+      "items": "Vide. Oof."
+    },
+    {
+      "user": "371021968159277068",
+      "items": "Vide. Oof."
+    }
+  ]
+}
